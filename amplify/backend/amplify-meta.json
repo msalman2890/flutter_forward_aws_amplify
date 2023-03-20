@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-flutterforward-staging-61557-authRole",
+      "UnauthRoleArn": "arn:aws:iam::789676797123:role/amplify-flutterforward-staging-61557-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::789676797123:role/amplify-flutterforward-staging-61557-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-flutterforward-staging-61557-deployment",
+      "UnauthRoleName": "amplify-flutterforward-staging-61557-unauthRole",
+      "StackName": "amplify-flutterforward-staging-61557",
+      "StackId": "arn:aws:cloudformation:ap-south-1:789676797123:stack/amplify-flutterforward-staging-61557/593c9260-c554-11ed-9bc6-0617d69b32c6",
+      "AmplifyAppId": "d1rw26wkw00t93"
+    }
+  }
+}
